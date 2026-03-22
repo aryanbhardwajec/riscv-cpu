@@ -16,11 +16,11 @@ This project implements a simplified RISC-V single cycle CPU using Verilog.
 - Yosys (Synthesis)
 
 ## Architecture
-![CPU Diagram](docs/cpu_diagram.PNG)
+![CPU Diagram](docs/cpu_diagram.png)
 
 ## Simulation
 Waveform of the design:
-![Waveform](docs/waveform.PNG)
+![Waveform](docs/waveform.png)
 
 ## Author
 Aryan Bhardwaj
