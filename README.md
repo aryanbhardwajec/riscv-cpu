@@ -20,7 +20,7 @@ This project implements a simplified RISC-V single cycle CPU using Verilog.
 
 ## Simulation
 Waveform of the design:
-![Waveform](docs/waveform.png)
+![Waveform](docs/waveform_ss.png)
 
 ## Author
 Aryan Bhardwaj
